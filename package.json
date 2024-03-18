@@ -1,0 +1,16 @@
+{
+  "name": "mysql-s3-datalake-migration-aws-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "mysql2": "^3.6.3"
+  }
+}
